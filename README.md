@@ -1,4 +1,10 @@
 
+Check it out Live link  
+
+Frontend : https://task-manager-frontend-cyan.vercel.app
+
+Server : https://task-manager-backend-oytl.onrender.com
+
 Note: If for the first time you are opening the FRONTEND URL LINK, it will take around few seconds or 1 min to get response from server as redner is a free hosting platform thats why it works slow and takes some time.
 So keep patience to get response form server side.
 
@@ -12,13 +18,6 @@ understand to anyone.
 I focused to maintain code quality and handling each anf every error along with informing the user using react-hot-toast react library.
 
 VERCEL platform is used for frontend deployment and RENDER is used for server deployment.
-
-
-Check it out Live link  
-
-Frontend : https://task-manager-frontend-cyan.vercel.app
-
-Server : https://task-manager-backend-oytl.onrender.com
 
 FOR BACKEND SETUP , give following environment varibale into .env file in root directory:
 
