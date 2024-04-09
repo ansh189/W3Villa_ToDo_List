@@ -11,7 +11,7 @@ understand to anyone.
 
 I focused to maintain code quality and handling each anf every error along with informing the user using react-hot-toast react library.
 
-Vercel platform is used for frontend deployment and Reder is used for server deployment.
+VERCEL platform is used for frontend deployment and RENDER is used for server deployment.
 
 
 Check it out Live link  
