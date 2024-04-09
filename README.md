@@ -1,4 +1,7 @@
 
+Note: If for the first timev you are opening the FRONTEND URL LINK, it will take around few seconds or 1 min to get response from server as redner is a free hosting thats why it takes works slow and takes some time.
+So keep patience to get response form server side.
+
 In this project, for backend, I used Node.js, express.js and MongoDB database. 
 
 React.js is used for frontend. 
