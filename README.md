@@ -19,10 +19,10 @@ Server : https://task-manager-backend-oytl.onrender.com
 
 For backend setup , give following environment varibale into .env file in root directory:
 
-FRONTEND_URL
-JWT_SECRET
-MONGO_URI
-NODE_ENV
+FRONTEND_URL, 
+JWT_SECRET, 
+MONGO_URI, 
+NODE_ENV, 
 PORT
 
 For frontend setup, give following environment varibale into .env file in root directory:
