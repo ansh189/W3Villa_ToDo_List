@@ -20,15 +20,20 @@ Frontend : https://task-manager-frontend-cyan.vercel.app
 
 Server : https://task-manager-backend-oytl.onrender.com
 
-For backend setup , give following environment varibale into .env file in root directory:
+FOR BACKEND SETUP , give following environment varibale into .env file in root directory:
 
 FRONTEND_URL, 
+
 JWT_SECRET, 
+
 MONGO_URI, 
+
 NODE_ENV, 
+
 PORT
 
-For frontend setup, give following environment varibale into .env file in root directory:
+FOR FRONTEND SETUP, give following environment varibale into .env file in root directory:
+
 VITE_SERVER
 
 
