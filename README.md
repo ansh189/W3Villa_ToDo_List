@@ -11,7 +11,7 @@ Vercel platform is used for frontend deployment and Reder is used for server dep
 
 Check it out Live link  
 
-Frontend : https://task-manager-frontend-cyan.vercel.app/login
+Frontend : https://task-manager-frontend-cyan.vercel.app
 
 Server : https://task-manager-backend-oytl.onrender.com
 
