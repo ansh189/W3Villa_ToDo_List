@@ -4,7 +4,7 @@ import App from "./App";
 import "./styles/app.scss";
 import { createContext } from "react";
 
-export const server = "https://task-manager-backend-oytl.onrender.com/api/v1";
+export const server = "https://todo-list-backend-vsks.onrender.com/api/v1";
 
 export const Context = createContext({ isAuthenticated: false });
 

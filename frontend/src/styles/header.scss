@@ -5,21 +5,24 @@
   justify-content: space-between;
   padding: 0 3rem;
   width: 100%;
-  > div {
+
+  >div {
     h2 {
       text-transform: uppercase;
-      color: $color2;
+      color: black;
       font-weight: 400;
     }
   }
 
-  > article {
+  >article {
     display: flex;
     align-items: center;
     text-align: center;
-    > a {
+
+    >a {
       @include styledText;
       @include myButton;
+      color: black;
     }
   }
 }

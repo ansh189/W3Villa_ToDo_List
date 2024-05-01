@@ -20,7 +20,7 @@ const TodoItem = ({
           type="checkbox"
           checked={isCompleted}
         />
-        <button onClick={() => deleteHandler(id)} className="btn">
+        <button style={{color:"black"}} onClick={() => deleteHandler(id)} className="btn">
           Delete
         </button>
       </div>

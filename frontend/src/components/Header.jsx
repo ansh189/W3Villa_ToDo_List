@@ -28,12 +28,12 @@ const Header = () => {
   return (
     <nav className="header">
       <div>
-        <h2>Task Manager</h2>
+        <h2>To-Do List</h2>
       </div>
       <article>
         <Link to={"/"}>Home</Link>
         {isAuthenticated ? (
-          <button disabled={loading} onClick={logoutHandler} className="btn">
+          <button style={{color: "black"}} disabled={loading} onClick={logoutHandler} className="btn">
             Logout
           </button>
         ) : (
