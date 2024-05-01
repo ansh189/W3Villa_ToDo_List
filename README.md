@@ -1,9 +1,9 @@
 
 Check it out Live link  
 
-Frontend : https://task-manager-frontend-cyan.vercel.app
+Frontend : https://w3-villa-to-do-list.vercel.app
 
-Server : https://task-manager-backend-oytl.onrender.com
+Server : https://todo-list-backend-vsks.onrender.com
 
 Note: If for the first time you are opening the FRONTEND URL LINK, it will take around few seconds or 1 min to get response from server as redner is a free hosting platform thats why it works slow and takes some time.
 So keep patience to get response form server side.
